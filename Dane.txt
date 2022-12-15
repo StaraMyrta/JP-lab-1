@@ -1,0 +1,11 @@
+Paweł;Pawłowski;2639;CBE;
+Krystian;Krychowiak;2639;ITE;
+Bartosz;Walaszek;2698;AiR;
+Tytus;Bomba;2707;ITE;
+Paweł;Pawłowski;2873;TIN;
+Krystyna;Krystianowska;2822;TEL;
+Michałek;Guś;2879;TEL;
+Tytus;Bomba;2707;ITE;
+Janusz;Seram;2988;TIN;
+Sebastian;Wajer;2666;CBE;
+Domino;Jachaś;2654;TEL
